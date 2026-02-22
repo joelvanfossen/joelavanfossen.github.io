@@ -31,6 +31,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
+stylesheets:
+  - /assets/css/main.scss
+
 # Minimal Mistakes Specifics
 locale: "en-US"
 footer:
