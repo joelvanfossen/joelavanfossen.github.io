@@ -11,8 +11,11 @@ remote_theme: "mmistakes/minimal-mistakes"
 author:
   name: "Joel A. Van Fossen"
   avatar: "/images/HUD_277.jpg"
-  bio: "Assistant Professor of Philosophy"
-  location: ""
+  bio: |
+    Assistant Professor of Philosophy
+    Department of Global and Interdisciplinary Studies (GIS)
+    Hosei University
+  location: "Tokyo, Japan"
   links:
     - label: "Research Map"
       icon: "fas fa-fw fa-link"
