@@ -33,7 +33,7 @@ author_profile: true
 * Van Fossen, Joel A. Review of Christa Davis Acampora, _Contesting Nietzsche_ (The University of Chicago Press, 2013). _The Journal of Nietzsche Studies_ 49.2 (Fall 2018): 295-300.
 
 ### Presentations
-* Van Fossen, Joel A. "Nietzsche on Eros." North American Nietzsche Society, _American Philosophical Association Pacific Division 2026 Meeting_ (Online). January 9, 2026.
+* Van Fossen, Joel A. "Nietzsche on Eros." North American Nietzsche Society, _American Philosophical Association Pacific Division 2026 Meeting_ (Online). April 13, 2026.
 
 * Van Fossen, Joel A. "Love, Wellbeing, and Rational Requirement." Invited Symposium Presentation at _American Philosophical Association Eastern Division 2026 Meeting_ (Baltimore, MD USA). January 9, 2026.
 
