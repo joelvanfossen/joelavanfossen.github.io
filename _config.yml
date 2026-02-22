@@ -38,6 +38,3 @@ stylesheets:
 locale: "en-US"
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/joelvanfossen"
