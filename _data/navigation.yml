@@ -6,3 +6,5 @@ main:
     url: /teaching/
   - title: "CV"
     url: /assets/cv.pdf
+  - title: "About Me"
+    url: /aboutme/
