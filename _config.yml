@@ -2,15 +2,15 @@
 title: "Joel A. Van Fossen"
 name: "Joel A. Van Fossen"
 description: "Assistant Professor of Philosophy"
-url: "https://joelavanfossen.github.io"
+url: "https://joelvanfossen.github.io"
 baseurl: "" 
-repository: "joelavanfossen/joelavanfossen.github.io"
+repository: "joelvanfossen/joelvanfossen.github.io"
 remote_theme: "academicpages/academicpages.github.io"
 
-# Author Profile (Sidebar)
+# Author Profile (This builds the sidebar)
 author:
   name: "Joel A. Van Fossen"
-  avatar: "/images/HUD_277.jpg"
+  avatar: ""
   bio: "Assistant Professor of Philosophy"
   location: "Kawasaki, Japan"
   links:
