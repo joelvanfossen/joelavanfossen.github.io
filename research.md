@@ -10,6 +10,8 @@ author_profile: true
 
 * Van Fossen, Joel A. _Nietzsche on Love_ (Manuscript under contract). Cambridge University Press.
 
+* * Part of the Cambridge Elements Series
+
 ### Articles
 * Van Fossen, Joel A. "_Ressentiment_ as a Reactive Attitude" (Forthcoming). In _The Moral Psychology of Resentment_, edited by Antti Kauppinen and Max Lewis. Rowman & Littlefield.
 
