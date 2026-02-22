@@ -10,7 +10,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 # Author Profile (Sidebar)
 author:
   name: "Joel A. Van Fossen"
-  avatar: "/images/HUD_277.jpg"
+  avatar: "assets/images/HUD_295.jpeg"
   bio: "Assistant Professor of Philosophy <br> Department of Global and Interdisciplinary Studies (GIS) <br> Hosei University"
   location: "Tokyo, Japan"
   links:
